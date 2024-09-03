@@ -34,3 +34,4 @@ jobs:
           languages: javascript
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
+https://docs.github.com/articles/configuring-workflows
